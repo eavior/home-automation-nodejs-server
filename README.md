@@ -1,4 +1,4 @@
-# nodejs-server-with-mongodb
+# nodejs-server
 
 NodeJS server for https://sensibo.avior.online/
 Work on this app is still in progress...
